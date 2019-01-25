@@ -4,4 +4,4 @@
 
 This small Kinect helper application lets you control slideshows such as Powerpoint by using hand gestures. To recognize the gesture, a reactive-based parser framework is employed.
 
-As is, the code runs against the first version of the Kinect SDK, which means you also need a first generation Kindect camera to use it.
+As is, the code runs against the first version of the Kinect SDK, which means you also need a first generation Kinect camera to use it.
